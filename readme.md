@@ -4,4 +4,6 @@ Vitoal is a free tool I've created to help get around school malware. Vitoal is 
 
 Vitoal is completely free to use as long as you do not steal anything without giving credit to me. However you are allowed to download the repository and add your own useful links to the HTML file and reupload it on GitHub. (just give credit to me)
 
-https://www.github.com/vytaxx https://www.github.com/vytaxx/vitoal https://vytaxx.github.io/Vitoal/
+https://www.github.com/vytaxx 
+https://www.github.com/vytaxx/vitoal 
+https://vytaxx.github.io/Vitoal/
